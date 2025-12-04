@@ -4,11 +4,13 @@ title: Gabriel Mendes
 logo: "/images/logo.jpg?raw=true"
 
 description: >
-  Holding a Master's in Genetics from UFMG, I employ data analysis and visualization tools in eDNA metabarcoding research.<br>
   <br><br>
+  Holding a Master's in Genetics from UFMG, I employ data analysis and visualization tools in eDNA metabarcoding research.<br>
+  <br>
   My expertise centers on handling large datasets and conducting robust statistical analyses using R, with a focus on data visualization and reproducibility. I combine molecular biology's scientific rigor with modern computational tools—including Linux, Shell Script, SQL, Git, and Cloud Computing—to transform raw data into clear biological insights.<br>
   <a href="https://www.linkedin.com/in/gabriel-mendes-b2b4432ba/">View My LinkedIn Profile</a>
-
+  <br>
+  
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
