@@ -2,13 +2,13 @@
 
 ---
 
-### Category Name 1 
+### Bioinformatics Freelance & Consulting  
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Dasa Variants Project](/portfolio/bioinformatics_freelance/dasa_project.md)
+<img src="images/filter_variants_interface.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Somatic Variants Consulting](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
