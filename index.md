@@ -1,35 +1,30 @@
-## Portfolio
-
+---
+layout: default
+title: Home
 ---
 
-### Bioinformatics Freelance & Consulting  
+# Welcome
 
-[Dasa Variants Project](portfolio/bioinformatic_freelance/dasa_project.md)
-<img src="images/filter_variants_interface.png?raw=true"/>
+I am **Gabriel Mendes**, a researcher specializing in **Computational biology** and **Data analysis**.
 
----
-[Somatic Variants Consulting](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+My work focuses on aquatic biodiversity, specifically **fish taxonomy and identification** using High-Throughput Sequencing (HTS) and statistical analysis. I am experienced in building bioinformatics pipelines and processing genomic data using **R** and Linux environments.
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+## Explore
 
----
+Here you can navigate through my projects and academic background:
 
-### Category Name 2
+- **[Portfolio & Projects](./portfolio/portfolio.md)**  
+  *A collection of my repositories, R packages, and case studies.*
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- **[GitHub Profile](https://github.com/gbrl-mendes)**  
+  *Access my source code and contributions.*
 
----
-
+- **[Orcid Profile](https://orcid.org/0000-0002-1260-5993)**  
+  *My scientific publications.*
 
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
+### Contact
+Feel free to [reach out](mailto:gabrielmendesbrt@outllok.com) for collaborations or inquiries regarding my research. 
