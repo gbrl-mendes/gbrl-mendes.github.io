@@ -4,7 +4,7 @@
 
 ### Bioinformatics Freelance & Consulting  
 
-[Dasa Variants Project](/portfolio/bioinformatic_freelance/dasa_project.md)
+[Dasa Variants Project](portfolio/bioinformatic_freelance/dasa_project.md)
 <img src="images/filter_variants_interface.png?raw=true"/>
 
 ---
