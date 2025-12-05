@@ -22,9 +22,14 @@ Here you can navigate through my projects and academic background:
 - **[Orcid Profile](https://orcid.org/0000-0002-1260-5993)**  
   *My scientific publications.*
 
-
-
 ---
 
 ### Contact
 Feel free to [reach out](mailto:gabrielmendesbrt@outllok.com) for collaborations or inquiries regarding my research. 
+
+<style>
+  @media screen and (min-width: 768px) {
+    header { display: none !important; }
+    section { width: 80% !important; max-width: 900px !important; float: none !important; margin: 0 auto !important; }
+  }
+</style>
