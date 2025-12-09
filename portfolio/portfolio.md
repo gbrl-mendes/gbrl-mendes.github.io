@@ -6,27 +6,20 @@
 
 [Dasa Variants Project](./portfolio/bioinformatic_freelance/dasa_project.md)
 <img src="images/filter_variants_interface.png?raw=true"/> 
-
 ---
-[Somatic Variants Consulting](/pdf/sample_presentation.pdf)
+[Somatic Variants Consulting](./portfolio/bioinformatic_freelance/somatic_variants.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 ---
 
-### Category Name 2
+### Research
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
+[Ingleses Lake Paper](./portfolio/bioinformatic_freelance/dasa_project.md)
+<img src="images/filter_variants_interface.png?raw=true"/> 
 ---
 
+[Cipó's eDNA metabarcoding project](./portfolio/bioinformatic_freelance/dasa_project.md)
+<img src="images/filter_variants_interface.png?raw=true"/> 
+---
 
 
 
