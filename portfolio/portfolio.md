@@ -5,7 +5,7 @@
 ### Bioinformatics Freelance & Consulting  
 
 [Dasa Variants Project](./portfolio/bioinformatic_freelance/dasa_project.md)
-<img src="images/filter_variants_interface.png?raw=true"/>
+<img src="/workspaces/gbrl-mendes.github.io/images/filter_variants_interface.png?raw=true"/> 
 
 ---
 [Somatic Variants Consulting](/pdf/sample_presentation.pdf)
