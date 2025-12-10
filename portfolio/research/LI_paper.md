@@ -1,18 +1,10 @@
----
-layout: post
-title: "Hydrology-Induced Changes in Fish Ecology"
-description: "Investigating how water level fluctuations drive fish community dynamics in a Neotropical reservoir using eDNA metabarcoding."
-date: 2025-12-09
-image: /assets/images/projects/lagoa_ingleses_cover.jpg # Adicione se tiver
----
-
 # Hydrology-Induced Changes Drive Fish eDNA Ecology in a Neotropical Reservoir
 
 This study investigates the ecological dynamics of fish communities in the *Lagoa dos Ingleses* reservoir under varying hydrological conditions. By leveraging **eDNA metabarcoding**, we assessed how water level fluctuations (High vs. Low) influence species richness (alpha diversity) and community composition (beta diversity).
 
 <div style="text-align: center; margin: 2rem 0;">
-  <a href="#" class="btn btn-primary" style="background-color: #24292e; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold;">
-    <i class="fab fa-github"></i> Project Repository (Coming Soon)
+  <a href="https://github.com/gbrl-mendes/LI_paper/" class="btn btn-primary" style="background-color: #24292e; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold;">
+    <i class="fab fa-github"></i> View Full Repository & Code
   </a>
 </div>
 

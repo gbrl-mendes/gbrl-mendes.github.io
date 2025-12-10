@@ -1,11 +1,3 @@
----
-layout: post
-title: "Cipó River eDNA Metabarcoding Project"
-description: "Monitoring fish biodiversity in the Cipó River basin using environmental DNA (eDNA) metabarcoding compared to traditional survey methods."
-date: 2025-12-09
-image: portfolio/research/images/tile_plot_methods_2025-11-20.png # Adicione uma imagem de capa se tiver
----
-
 # Cipó River eDNA Metabarcoding Project
 
 This project evaluates the efficacy of **Environmental DNA (eDNA) metabarcoding** for monitoring fish biodiversity in the Cipó River basin. We compared eDNA results with traditional survey methods (electrofishing and netting) to assess taxonomic coverage, alpha/beta diversity, and the potential of eDNA as a non-invasive monitoring tool.
