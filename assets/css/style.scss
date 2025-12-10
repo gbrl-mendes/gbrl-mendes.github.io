@@ -3,37 +3,66 @@
 
 @import "{{ site.theme }}";
 
-/* 1. Justificar texto da barra lateral */
+/* =========================================
+   1. Estilização Global de Texto
+   ========================================= */
 header p {
   text-align: justify !important;
 }
 
-/* 2. Ajuste de Layout para telas grandes (Desktop) */
+/* =========================================
+   2. Ajuste para Desktop (Telas > 960px)
+   Aqui está a mágica do Flexbox + Scroll
+   ========================================= */
 @media print, screen and (min-width: 960px) {
   
-  /* Aumentar largura total do container */
+  /* Container Principal */
   .wrapper {
-    width: 1100px !important; /* Mais largo que o padrão 800px */
+    width: 1100px !important; 
     max-width: 95% !important;
     margin: 0 auto;
   }
 
-  /* Aumentar e fixar a barra lateral */
+  /* Barra Lateral (Header) */
   header {
-    width: 320px !important; /* Largura fixa maior */
-    float: left !important;   /* Garante que fique à esquerda */
-    position: fixed !important; /* Mantém fixa ao rolar (comportamento padrão do tema) */
+    /* Suas configurações originais de largura/posição */
+    width: 320px !important; 
+    float: left !important;   
+    position: fixed !important; 
+    
+    /* NOVO: Engenharia de Layout Interno */
+    height: 100vh !important;       /* Ocupa 100% da altura da janela */
+    display: flex !important;       /* Transforma em container flexível */
+    flex-direction: column !important; /* Empilha os itens verticalmente */
+    overflow-y: auto !important;    /* Adiciona scroll se o conteúdo for muito alto */
+    
+    /* Cosmética para o scroll não colar no conteúdo */
+    padding-bottom: 20px !important; 
   }
 
-  /* Empurrar o conteúdo principal para a direita */
+  /* 
+     Força os botões de link (GitHub/Download) a fluírem 
+     logo após o texto, sem grudar no fundo ou sobrepor.
+     O tema original usa position absolute aqui, por isso quebrava.
+  */
+  header p.view, 
+  header ul {
+    position: static !important; /* Remove posicionamento absoluto */
+    margin-top: 20px !important; /* Dá um respiro do texto */
+    flex-shrink: 0 !important;   /* Impede que os botões sejam esmagados */
+  }
+
+  /* Conteúdo Principal */
   section {
-    width: 700px !important; /* Conteúdo mais largo */
-    margin-left: 360px !important; /* MARGEM CRÍTICA: 320px do header + 40px de respiro */
-    padding-left: 0 !important; /* Remove padding extra se houver */
+    width: 700px !important; 
+    margin-left: 360px !important; /* 320px header + 40px gap */
+    padding-left: 0 !important; 
   }
 }
 
-/* 3. Ajuste para telas gigantes (Monitores Wide) */
+/* =========================================
+   3. Ajuste para Monitores Wide (Telas > 1400px)
+   ========================================= */
 @media print, screen and (min-width: 1400px) {
   .wrapper {
     width: 1300px !important;
@@ -45,17 +74,22 @@ header p {
   
   section {
     width: 850px !important;
-    margin-left: 420px !important; /* 380px + 40px */
+    margin-left: 420px !important; /* 380px header + 40px gap */
   }
 }
 
-/* 4. Ajuste para Mobile (Tela pequena) - Reseta tudo para empilhar */
+/* =========================================
+   4. Reset para Mobile (Telas < 959px)
+   ========================================= */
 @media print, screen and (max-width: 959px) {
   header, section {
     width: 100% !important;
     position: relative !important;
     float: none !important;
     margin-left: 0 !important;
+    height: auto !important; /* Reseta a altura fixa do desktop */
+    display: block !important; /* Desfaz o flexbox */
+    overflow-y: visible !important; /* Remove scroll interno */
   }
   
   header {
