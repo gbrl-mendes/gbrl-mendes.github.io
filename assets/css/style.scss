@@ -1,0 +1,39 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Justificar o texto da descrição na barra lateral */
+header p {
+  text-align: justify !important;
+}
+
+/* Aumentar a largura da barra lateral (header) e do conteúdo principal (section) */
+@media print, screen and (min-width: 960px) {
+  body {
+    max-width: 1200px; /* Aumenta a largura total da página (padrão é 800px) */
+  }
+
+  header {
+    width: 340px; /* Aumenta a largura da barra lateral (padrão é 270px) */
+  }
+
+  section {
+    width: 700px; /* Aumenta a largura do conteúdo principal (padrão é 500px) */
+  }
+}
+
+/* Ajuste para telas muito grandes (opcional, para aproveitar mais espaço) */
+@media print, screen and (min-width: 1400px) {
+  body {
+    max-width: 1350px;
+  }
+  
+  header {
+    width: 380px;
+  }
+
+  section {
+    width: 850px;
+  }
+}
