@@ -5,15 +5,14 @@ logo: "./images/logo.png?raw=true"
 
 description: >
   <br>
-  <a href="https://www.linkedin.com/in/gabriel-mendes-b2b4432ba/">LinkedIn Profile</a><br>|<a href="http://lattes.cnpq.br/8573247637516819">Lattes CV</a><br>|<a href="https://orcid.org/0000-0002-1260-5993">Orcid Profile</a>
+  <a href="https://www.linkedin.com/in/gabriel-mendes-b2b4432ba/">LinkedIn Profile</a>|<a href="http://lattes.cnpq.br/8573247637516819">Lattes CV</a>|<a href="https://orcid.org/0000-0002-1260-5993">Orcid Profile</a>
   <br><br>
-  Bioinformatician and Data Scientist with +7 years of experience in Computational Biology. 
+  <b>Bioinformatician</b> and <b>Data Scientist</b> with +7 years of experience in Computational Biology. 
   <br><br>
   M.Sc. in Genetics (UFMG). I specialize in Data Architecture for biological systems, leveraging Python, R, SQL, and Bash to build reproducible analysis pipelines.
    <br><br>
   My work bridges the gap between molecular biology and data science, handling complex datasets such as eDNA metabarcoding and variant calling. I focus on statistical rigor, data visualization, and software development to drive biological discovery in any organism or context.
   <div style="line-height: 1.8;">
-  <a href="https://www.linkedin.com/in/gabriel-mendes-b2b4432ba/">LinkedIn Profile</a><br>
   </div>
   <br><br><br><br><br>
 remote_theme: pages-themes/minimal@v0.2.0

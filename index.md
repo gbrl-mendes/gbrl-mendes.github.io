@@ -9,7 +9,7 @@ I am a **Bioinformatician** and **Biological Data Scientist** with over 7 years 
 
 My expertise lies in **Computational Biology**, where I design and implement robust data analysis pipelines. I specialize in the architecture of biological data processing, from raw sequencing reads to statistical interpretation. While I have a strong background in **eDNA metabarcoding** and **variant annotation**, my core proficiency is in handling large-scale biological datasets across diverse domains—ranging from environmental monitoring to clinical genomics.
 
-I solve data problems using **R**, **Bash**, and **Linux** environments, with a strict focus on version control (**Git**) and reproducibility.
+I solve data problems using **Python**, **R**, **Bash**, and **Linux** environments, with a strict focus on version control (**Git**) and reproducibility.
 
 ## Explore
 
