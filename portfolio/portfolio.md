@@ -9,17 +9,17 @@
 ---
 
 [Somatic Variants Consulting](bioinformatic_freelance/somatic_variants.md)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/flask_server.png?raw=true"/>
 ---
 
 ### Research
 
 [Ingleses Lake Paper](research/LI_paper.md)
-<img src="images/filter_variants_interface.png?raw=true"/> 
+<img src="images/LI_paper-figure2.png?raw=true"/> 
 ---
 
-[Cipó's eDNA metabarcoding project](research/eDNA_Cipo.md)
-<img src="images/filter_variants_interface.png?raw=true"/> 
+[Cipó River eDNA Metabarcoding project](research/eDNA_Cipo.md)
+<img src="images/eDNA_cipo-alpha.jpeg?raw=true"/> 
 ---
 
 
