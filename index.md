@@ -3,33 +3,35 @@ layout: default
 title: Home
 ---
 
-# Welcome
+# Hello, I am Gabriel Mendes
 
-I am **Gabriel Mendes**, a researcher specializing in **Computational biology** and **Data analysis**.
+I am a **Bioinformatician** and **Biological Data Scientist** with over 7 years of experience in transforming complex biological data into actionable insights.
 
-My work focuses on aquatic biodiversity, specifically **fish taxonomy and identification** using High-Throughput Sequencing (HTS) and statistical analysis. I am experienced in building bioinformatics pipelines and processing genomic data using **R** and Linux environments.
+My expertise lies in **Computational Biology**, where I design and implement robust data analysis pipelines. I specialize in the architecture of biological data processing, from raw sequencing reads to statistical interpretation. While I have a strong background in **eDNA metabarcoding** and **variant annotation**, my core proficiency is in handling large-scale biological datasets across diverse domains—ranging from environmental monitoring to clinical genomics.
+
+I solve data problems using **R**, **Bash**, and **Linux** environments, with a strict focus on version control (**Git**) and reproducibility.
 
 ## Explore
 
-Here you can navigate through my projects and academic background:
+Navigate through my technical portfolio and contributions:
 
 - **[Portfolio & Projects](./portfolio/portfolio.md)**  
-  *A collection of my repositories, R packages, and case studies.*
+  *Case studies in bioinformatics pipelines, R package development, and data visualization.*
 
-  - **[GitHub Profile](https://github.com/gbrl-mendes)**  
-    *Access my source code and contributions.*
+- **[GitHub Profile](https://github.com/gbrl-mendes)**  
+  *Source code for my reproducible workflows and open-source contributions.*
 
-    - **[Orcid Profile](https://orcid.org/0000-0002-1260-5993)**  
-      *My scientific publications.*
+- **[Orcid Profile](https://orcid.org/0000-0002-1260-5993)**  
+  *Scientific publications and academic output.*
 
-      ---
+---
 
-      ### Contact
-      Feel free to [reach out](mailto:gabrielmendesbrt@outllok.com) for collaborations or inquiries regarding my research. 
+### Contact
+Open to collaborations in Data Science and Bioinformatics. Feel free to [reach out](mailto:gabrielmendesbrt@outlook.com).
 
-      <style>
-        @media screen and (min-width: 768px) {
-            header { display: none !important; }
-                section { width: 80% !important; max-width: 900px !important; float: none !important; margin: 0 auto !important; }
-                  }
-                  </style>
+<style>
+@media screen and (min-width: 768px) {
+    header { display: none !important; }
+    section { width: 80% !important; max-width: 900px !important; float: none !important; margin: 0 auto !important; }
+}
+</style>
