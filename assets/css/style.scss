@@ -4,15 +4,20 @@
 @import "{{ site.theme }}";
 
 /* =========================================
-   1. Estilização Global de Texto
+   1. Estilização Global de Texto da Barra Lateral
    ========================================= */
-header p {
-  text-align: justify !important;
+/* 
+   Mudamos de 'justify' para 'center'. 
+   Isso garante que o título, os links e a descrição fiquem centralizados.
+   Se você quiser que SÓ a descrição longa fique justificada, me avise,
+   mas centralizado costuma ser o padrão para barras laterais estreitas.
+*/
+header p, header h1, header a {
+  text-align: center !important;
 }
 
 /* =========================================
    2. Ajuste para Desktop (Telas > 960px)
-   Aqui está a mágica do Flexbox + Scroll
    ========================================= */
 @media print, screen and (min-width: 960px) {
   
@@ -25,37 +30,55 @@ header p {
 
   /* Barra Lateral (Header) */
   header {
-    /* Suas configurações originais de largura/posição */
     width: 320px !important; 
     float: left !important;   
     position: fixed !important; 
     
-    /* NOVO: Engenharia de Layout Interno */
-    height: 100vh !important;       /* Ocupa 100% da altura da janela */
-    display: flex !important;       /* Transforma em container flexível */
-    flex-direction: column !important; /* Empilha os itens verticalmente */
-    overflow-y: auto !important;    /* Adiciona scroll se o conteúdo for muito alto */
+    /* Layout Flexbox Centralizado */
+    height: 100vh !important;       
+    display: flex !important;       
+    flex-direction: column !important; 
     
-    /* Cosmética para o scroll não colar no conteúdo */
+    /* ESTA LINHA CENTRALIZA OS BLOCOS (Foto, Título, etc) HORIZONTALMENTE */
+    align-items: center !important; 
+    
+    overflow-y: auto !important;    
     padding-bottom: 20px !important; 
   }
 
   /* 
-     Força os botões de link (GitHub/Download) a fluírem 
-     logo após o texto, sem grudar no fundo ou sobrepor.
-     O tema original usa position absolute aqui, por isso quebrava.
+     CORREÇÃO DA IMAGEM: 
+     Trava o tamanho, arredonda e centraliza.
   */
+  header img {
+    max-width: 150px !important; 
+    width: 100% !important;      
+    height: auto !important;     
+    border-radius: 50% !important; 
+    margin: 0 auto 20px auto !important; /* Margem automática ajuda na centralização */
+    display: block !important;
+  }
+
+  /* Garante que o Título esteja centralizado */
+  header h1 {
+    width: 100% !important; /* Ocupa a largura toda para o text-align funcionar */
+    margin-bottom: 15px !important;
+  }
+
+  /* Correção do Rodapé para não sobrepor */
   header p.view, 
   header ul {
-    position: static !important; /* Remove posicionamento absoluto */
-    margin-top: 20px !important; /* Dá um respiro do texto */
-    flex-shrink: 0 !important;   /* Impede que os botões sejam esmagados */
+    position: static !important; 
+    margin-top: 20px !important; 
+    flex-shrink: 0 !important;   
+    width: 100% !important;
+    text-align: center !important;
   }
 
   /* Conteúdo Principal */
   section {
     width: 700px !important; 
-    margin-left: 360px !important; /* 320px header + 40px gap */
+    margin-left: 360px !important; 
     padding-left: 0 !important; 
   }
 }
@@ -74,7 +97,7 @@ header p {
   
   section {
     width: 850px !important;
-    margin-left: 420px !important; /* 380px header + 40px gap */
+    margin-left: 420px !important;
   }
 }
 
@@ -87,12 +110,24 @@ header p {
     position: relative !important;
     float: none !important;
     margin-left: 0 !important;
-    height: auto !important; /* Reseta a altura fixa do desktop */
-    display: block !important; /* Desfaz o flexbox */
-    overflow-y: visible !important; /* Remove scroll interno */
+    height: auto !important; 
+    display: block !important; 
+    overflow-y: visible !important; 
+    
+    /* No mobile, centralizamos tudo também para consistência */
+    text-align: center !important;
+    align-items: center !important;
   }
   
   header {
     margin-bottom: 40px;
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+  }
+  
+  header img {
+    max-width: 120px !important; 
+    margin: 0 auto 15px auto !important;
   }
 }
