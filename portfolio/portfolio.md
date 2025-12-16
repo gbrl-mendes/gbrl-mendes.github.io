@@ -2,16 +2,6 @@
 
 ---
 
-### Bioinformatics Freelance & Consulting  
-
-[Dasa Variants Project](bioinformatic_freelance/dasa_project.md)
-<img src="images/filter_variants_interface.png?raw=true"/> 
----
-
-[Somatic Variants Consulting](bioinformatic_freelance/somatic_variants.md)
-<img src="images/flask_server.png?raw=true"/>
----
-
 ### Research
 
 [Ingleses Lake Paper](research/LI_paper.md)
@@ -22,6 +12,15 @@
 <img src="research/images/eDNA_cipo_home.png?raw=true"/> 
 ---
 
+### Bioinformatics Freelance & Consulting  
+
+[Dasa Variants Project](bioinformatic_freelance/dasa_project.md)
+<img src="images/filter_variants_interface.png?raw=true"/> 
+---
+
+[Somatic Variants Consulting](bioinformatic_freelance/somatic_variants.md)
+<img src="images/flask_server.png?raw=true"/>
+---
 
 
 ---
