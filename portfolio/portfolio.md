@@ -19,7 +19,7 @@
 ---
 
 [Cipó River eDNA Metabarcoding project](research/eDNA_Cipo.md)
-<img src="images/eDNA_cipo-alpha.jpeg?raw=true"/> 
+<img src="images/eDNA_cipo_home.png?raw=true"/> 
 ---
 
 
