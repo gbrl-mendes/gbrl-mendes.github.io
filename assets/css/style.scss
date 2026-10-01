@@ -491,3 +491,17 @@ section > p.lang-top { max-width: none; margin: 0 0 24px; text-align: right; fon
   }
   body.home section > ul > li { margin-bottom: 18px; }
 }
+
+/* Página inicial: Explore e Contato centralizados (só em telas largas) */
+@media screen and (min-width: 768px) {
+  body.home section h2,
+  body.home section h3 { text-align: center; }
+  body.home section > p:not(.lang-top) { max-width: none; text-align: center; }
+  body.home section > ul {
+    max-width: none;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+  }
+  body.home section > ul > li { margin-bottom: 18px; }
+}
