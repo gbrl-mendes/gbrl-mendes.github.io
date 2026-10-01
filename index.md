@@ -5,9 +5,15 @@ lang: en-US
 site_lang: en
 ---
 
-<p style="text-align:right; font-size:14px;"><b>English</b> | <a href="/index-pt.html">Português</a></p>
+<p class="lang-top"><b>English</b> | <a href="/index-pt.html">Português</a></p>
 
-# Hello, I am Gabriel Mendes
+<div class="hero">
+  <img class="hero-photo" src="/images/logo.png" alt="Gabriel Mendes"/>
+  <div class="hero-text">
+    <h1>Hello, I am Gabriel Mendes</h1>
+    <p class="hero-sub">Data pipelines for biological and environmental data</p>
+  </div>
+</div>
 
 I am a **Data Scientist** and **Bioinformatician** with 10 years of experience turning heterogeneous, messy data into reliable systems that specialists can trust and reuse.
 
@@ -32,10 +38,3 @@ Navigate through my technical portfolio and contributions:
 
 ### Contact
 Open to collaborations in Data Science and Bioinformatics. Feel free to [reach out](mailto:gabrielmendesbrt@outlook.com).
-
-<style>
-@media screen and (min-width: 768px) {
-    header { display: none !important; }
-    section { width: 80% !important; max-width: 900px !important; float: none !important; margin: 0 auto !important; }
-}
-</style>

@@ -5,9 +5,15 @@ lang: pt-BR
 site_lang: pt
 ---
 
-<p style="text-align:right; font-size:14px;"><a href="/">English</a> | <b>Português</b></p>
+<p class="lang-top"><a href="/">English</a> | <b>Português</b></p>
 
-# Olá, eu sou Gabriel Mendes
+<div class="hero">
+  <img class="hero-photo" src="/images/logo.png" alt="Gabriel Mendes"/>
+  <div class="hero-text">
+    <h1>Olá, eu sou Gabriel Mendes</h1>
+    <p class="hero-sub">Pipelines de dados biológicos e ambientais</p>
+  </div>
+</div>
 
 Sou **Cientista de Dados** e **Bioinformata**, com 10 anos de experiência transformando dados heterogêneos e desorganizados em sistemas confiáveis, que especialistas podem usar e reutilizar com segurança.
 
@@ -32,10 +38,3 @@ Navegue pelo meu portfólio técnico e pelas minhas contribuições:
 
 ### Contato
 Aberto a colaborações em Ciência de Dados e Bioinformática. Fique à vontade para [entrar em contato](mailto:gabrielmendesbrt@outlook.com).
-
-<style>
-@media screen and (min-width: 768px) {
-    header { display: none !important; }
-    section { width: 80% !important; max-width: 900px !important; float: none !important; margin: 0 auto !important; }
-}
-</style>
