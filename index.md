@@ -15,11 +15,15 @@ site_lang: en
   </div>
 </div>
 
-I am a **Data Scientist** and **Bioinformatician** with 10 years of experience turning heterogeneous, messy data into reliable systems that specialists can trust and reuse.
+<div class="intro" markdown="1">
 
-My strength is the technical layer between raw data and the people who interpret it. I design and implement **data ingestion, validation and curation pipelines**, build the **interfaces** that expose their results, keep everything under **version control**, and maintain the **Linux servers** where they run. My domain experience comes from environmental and biological data, from **eDNA metabarcoding** to **variant annotation**, but the same approach applies to any combination of data sources that must be integrated, checked and delivered in a usable form.
+As a **Data Scientist** and **Bioinformatician** with 10 years of experience, my job is to make raw data accessible, traceable and ready to use.
 
-I work with **Python**, **R**, **SQL**, **Bash**, **Git** and **Docker**, and I am particularly interested in systems where **deterministic code and LLMs work together**, each doing what it does best and leaving an auditable trail.
+I design ingestion and curation pipelines, build the interfaces that make that information easy to consume, and take care of everything running behind them, from version control to Linux server administration. I built my career solving problems in biological and environmental data. The same method and technical rigor apply to integrating complex data sources and delivering reliable data in any other domain.
+
+Today I also use LLMs where they add value, always alongside deterministic code, so that the critical steps stay auditable.
+
+</div>
 
 ## Explore
 

@@ -15,11 +15,15 @@ site_lang: pt
   </div>
 </div>
 
-Sou **Cientista de Dados** e **Bioinformata**, com 10 anos de experiência transformando dados heterogêneos e desorganizados em sistemas confiáveis, que especialistas podem usar e reutilizar com segurança.
+<div class="intro" markdown="1">
 
-Meu ponto forte é a camada técnica entre os dados brutos e as pessoas que os interpretam. Projeto e implemento **pipelines de ingestão, validação e curadoria de dados**, construo as **interfaces** que expõem seus resultados, mantenho tudo sob **controle de versão** e cuido dos **servidores Linux** onde esses sistemas rodam. Minha experiência de domínio vem de dados ambientais e biológicos, do **metabarcoding de eDNA** à **anotação de variantes**, mas a mesma abordagem vale para qualquer combinação de fontes de dados que precise ser integrada, verificada e entregue de forma utilizável.
+Como **Cientista de Dados** e **Bioinformata** com 10 anos de atuação, meu trabalho é garantir que dados brutos se tornem acessíveis, rastreáveis e prontos para uso.
 
-Trabalho com **Python**, **R**, **SQL**, **Bash**, **Git** e **Docker**, e tenho especial interesse em sistemas em que **código determinístico e LLMs trabalham juntos**, cada um fazendo o que faz de melhor e deixando um rastro auditável.
+Projeto pipelines de ingestão e curadoria, crio as interfaces para consumir essas informações e cuido da operação por trás de tudo, do controle de versão à administração dos servidores Linux. Construí minha trajetória resolvendo problemas de dados biológicos e ambientais. Esse mesmo método e rigor técnico valem para integrar fontes complexas e entregar dados confiáveis em qualquer outro domínio.
+
+Hoje também uso LLMs onde agregam valor, sempre ao lado de código determinístico, para que as etapas críticas continuem auditáveis.
+
+</div>
 
 ## Explore
 
