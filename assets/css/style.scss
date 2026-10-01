@@ -468,3 +468,12 @@ section > p.lang-top { max-width: none; margin: 0 0 24px; text-align: right; fon
   section table { display: block; overflow-x: auto; }
   .hero h1 { font-size: 30px; }
 }
+
+/* Página inicial: texto de apresentação justificado (só em telas largas) */
+@media screen and (min-width: 768px) {
+  .intro p {
+    text-align: justify;
+    -webkit-hyphens: auto;
+    hyphens: auto;
+  }
+}
