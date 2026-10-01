@@ -2,6 +2,12 @@
 
 ---
 
+## Software Development 
+
+### [Hybrid eDNA Curation: AI-Assisted Pipeline](software_projects/edna_llm_curation.md)
+[<img src="images/edna_curation_report.png?raw=true"/>](software_projects/edna_llm_curation.md)
+---
+
 ## Research
 
 ### [Ingleses Lake Paper](research/LI_paper.md)
@@ -10,12 +16,6 @@
 
 ### [Cipó River eDNA Metabarcoding project](research/eDNA_Cipo.md)
 [<img src="research/images/eDNA_cipo_home.png?raw=true"/>](research/eDNA_Cipo.md)
----
-
-## Software Development & AI-Assisted Pipelines
-
-### [Hybrid eDNA Curation: Deterministic Code + LLM](software_projects/edna_llm_curation.md)
-[<img src="images/edna_curation_report.png?raw=true"/>](software_projects/edna_llm_curation.md)
 ---
 
 ## Bioinformatics Freelance & Consulting  
