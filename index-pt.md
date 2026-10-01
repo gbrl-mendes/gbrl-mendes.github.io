@@ -9,7 +9,7 @@ site_lang: pt
 
 # Olá, eu sou Gabriel Mendes
 
-Sou **Cientista de Dados** e **Bioinformata**, com mais de 7 anos de experiência transformando dados heterogêneos e desorganizados em sistemas confiáveis, que especialistas podem usar e reutilizar com segurança.
+Sou **Cientista de Dados** e **Bioinformata**, com 10 anos de experiência transformando dados heterogêneos e desorganizados em sistemas confiáveis, que especialistas podem usar e reutilizar com segurança.
 
 Meu ponto forte é a camada técnica entre os dados brutos e as pessoas que os interpretam. Projeto e implemento **pipelines de ingestão, validação e curadoria de dados**, construo as **interfaces** que expõem seus resultados, mantenho tudo sob **controle de versão** e cuido dos **servidores Linux** onde esses sistemas rodam. Minha experiência de domínio vem de dados ambientais e biológicos, do **metabarcoding de eDNA** à **anotação de variantes**, mas a mesma abordagem vale para qualquer combinação de fontes de dados que precise ser integrada, verificada e entregue de forma utilizável.
 

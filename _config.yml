@@ -7,26 +7,24 @@ description: >
   <br>
   <a href="https://www.linkedin.com/in/gabriel-mendes-b2b4432ba/">LinkedIn Profile</a>|<a href="http://lattes.cnpq.br/8573247637516819">Lattes CV</a>|<a href="https://orcid.org/0000-0002-1260-5993">Orcid Profile</a>
   <br><br>
-  <b>Data Scientist</b> and <b>Bioinformatician</b> with +7 years of experience turning heterogeneous data into reliable, reusable systems.
+  <b>Data Scientist</b> and <b>Bioinformatician</b> with 10 years of experience turning heterogeneous biological and environmental data into reliable, auditable and reusable systems.
   <br><br>
-  M.Sc. in Genetics (UFMG) and Ph.D. candidate in Bioinformatics, developing cross-platform software. I build the technical layer between raw data and domain specialists: ingestion, validation and curation pipelines, version-controlled code, interfaces, and the Linux servers they run on, using Python, R, SQL, Bash, Git and Docker.
+  M.Sc. in Genetics (UFMG) and Ph.D. candidate in Bioinformatics, where I develop data analysis pipelines. My main experience is building the bridge between raw data and its analyses: ingestion, validation and curation pipelines, version-controlled code, interfaces and the Linux infrastructure where everything runs, using Python, R, SQL, Bash, Git and Docker.
   <br><br>
-  My background is in environmental and biological data (eDNA metabarcoding, variant calling), and I work on combining deterministic code with LLMs in auditable ways. I focus on reproducibility and clear hand-offs, so specialists can spend their time on interpretation instead of data wrangling.
-  <div style="line-height: 1.8;">
-  </div>
-  <br><br><br><br><br>
+  My foundation is in biological and environmental data, especially eDNA metabarcoding and variant calling. Today I also work on combining deterministic code with LLMs, using the model where it adds value and keeping critical steps traceable and reproducible.
+  <br><br>
+  My focus is delivering clear, reproducible, cross-platform results.
 description_pt: >
   <br>
   <a href="https://www.linkedin.com/in/gabriel-mendes-b2b4432ba/">Perfil no LinkedIn</a>|<a href="http://lattes.cnpq.br/8573247637516819">Currículo Lattes</a>|<a href="https://orcid.org/0000-0002-1260-5993">Perfil no ORCID</a>
   <br><br>
-  <b>Cientista de Dados</b> e <b>Bioinformata</b> com mais de 7 anos de experiência transformando dados heterogêneos em sistemas confiáveis e reutilizáveis.
+  <b>Cientista de Dados</b> e <b>Bioinformata</b> com 10 anos de experiência transformando dados biológicos e ambientais heterogêneos em sistemas confiáveis, auditáveis e reutilizáveis.
   <br><br>
-  Mestre em Genética (UFMG) e doutorando em Bioinformática, desenvolvendo software multiplataforma. Construo a camada técnica entre os dados brutos e os especialistas de domínio: pipelines de ingestão, validação e curadoria, código versionado, interfaces e os servidores Linux onde tudo roda, com Python, R, SQL, Bash, Git e Docker.
+  Mestre em Genética (UFMG) e doutorando em Bioinformática, onde desenvolvo pipelines de análise de dados. Minha principal experiência é construindo a ponte entre os dados brutos e suas análises: pipelines de ingestão, validação e curadoria, código versionado, interfaces e a infraestrutura Linux em que tudo roda, com Python, R, SQL, Bash, Git e Docker.
   <br><br>
-  Minha base é em dados ambientais e biológicos (metabarcoding de eDNA, chamada de variantes), e trabalho na combinação auditável de código determinístico com LLMs. Foco em reprodutibilidade e em entregas claras, para que os especialistas gastem seu tempo interpretando os resultados, e não preparando os dados.
-  <div style="line-height: 1.8;">
-  </div>
-  <br><br><br><br><br>
+  Minha base está em dados biológicos e ambientais, com destaque para metabarcoding de eDNA e chamada de variantes. Hoje, trabalho também na combinação de código determinístico com LLMs, usando o modelo onde ele agrega valor e mantendo as etapas críticas rastreáveis e reproduzíveis.
+  <br><br>
+  Meu foco é entregar resultados claros e reprodutíveis, multiplataforma.
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme

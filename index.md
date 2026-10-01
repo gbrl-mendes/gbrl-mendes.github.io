@@ -9,7 +9,7 @@ site_lang: en
 
 # Hello, I am Gabriel Mendes
 
-I am a **Data Scientist** and **Bioinformatician** with over 7 years of experience turning heterogeneous, messy data into reliable systems that specialists can trust and reuse.
+I am a **Data Scientist** and **Bioinformatician** with 10 years of experience turning heterogeneous, messy data into reliable systems that specialists can trust and reuse.
 
 My strength is the technical layer between raw data and the people who interpret it. I design and implement **data ingestion, validation and curation pipelines**, build the **interfaces** that expose their results, keep everything under **version control**, and maintain the **Linux servers** where they run. My domain experience comes from environmental and biological data, from **eDNA metabarcoding** to **variant annotation**, but the same approach applies to any combination of data sources that must be integrated, checked and delivered in a usable form.
 
