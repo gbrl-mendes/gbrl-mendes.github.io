@@ -1,7 +1,11 @@
 ---
 layout: default
 title: Home
+lang: en-US
+site_lang: en
 ---
+
+<p style="text-align:right; font-size:14px;"><b>English</b> | <a href="/index-pt.html">Português</a></p>
 
 # Hello, I am Gabriel Mendes
 
@@ -16,7 +20,7 @@ I work with **Python**, **R**, **SQL**, **Bash**, **Git** and **Docker**, and I 
 Navigate through my technical portfolio and contributions:
 
 - **[Portfolio & Projects](./portfolio/portfolio.md)**  
-  *Case studies in bioinformatics pipelines, R package development, and data visualization.*
+  *Case studies in data pipelines, LLM-assisted curation, web interfaces and data visualization.*
 
 - **[GitHub Profile](https://github.com/gbrl-mendes)**  
   *Source code for my reproducible workflows and open-source contributions.*

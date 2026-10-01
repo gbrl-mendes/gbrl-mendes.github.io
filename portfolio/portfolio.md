@@ -1,14 +1,8 @@
-# Portfolio
+# Portfolio | Portfólio
 
 ---
 
-## Software Development 
-
-### [Hybrid eDNA Curation: AI-Assisted Pipeline](software_projects/edna_llm_curation.md)
-[<img src="images/edna_curation_report.png?raw=true"/>](software_projects/edna_llm_curation.md)
----
-
-## Research
+## Research | Pesquisa
 
 ### [Ingleses Lake Paper](research/LI_paper.md)
 [<img src="images/LI_paper-figure2.png?raw=true"/>](research/LI_paper.md) 
@@ -18,7 +12,13 @@
 [<img src="research/images/eDNA_cipo_home.png?raw=true"/>](research/eDNA_Cipo.md)
 ---
 
-## Bioinformatics Freelance & Consulting  
+## Software Development & AI-Assisted Pipelines | Desenvolvimento de Software e Pipelines Assistidos por IA
+
+### [Hybrid eDNA Curation: Deterministic Code + LLM](software_projects/edna_llm_curation.md)
+[<img src="images/edna_curation_report.png?raw=true"/>](software_projects/edna_llm_curation.md)
+---
+
+## Bioinformatics Freelance & Consulting | Consultoria e Freelance em Bioinformática
 
 ### [Dasa Variants Project](bioinformatic_freelance/dasa_project.md)
 [<img src="images/filter_variants_interface.png?raw=true"/>](bioinformatic_freelance/dasa_project.md)
