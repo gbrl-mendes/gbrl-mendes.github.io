@@ -5,11 +5,11 @@ title: Home
 
 # Hello, I am Gabriel Mendes
 
-I am a **Bioinformatician** and **Biological Data Scientist** with over 7 years of experience in transforming complex biological data into actionable insights.
+I am a **Data Scientist** and **Bioinformatician** with over 7 years of experience turning heterogeneous, messy data into reliable systems that specialists can trust and reuse.
 
-My expertise lies in **Computational Biology**, where I design and implement robust data analysis pipelines. I specialize in the architecture of biological data processing, from raw sequencing reads to statistical interpretation. While I have a strong background in **eDNA metabarcoding** and **variant annotation**, my core proficiency is in handling large-scale biological datasets across diverse domains—ranging from environmental monitoring to clinical genomics.
+My strength is the technical layer between raw data and the people who interpret it. I design and implement **data ingestion, validation and curation pipelines**, build the **interfaces** that expose their results, keep everything under **version control**, and maintain the **Linux servers** where they run. My domain experience comes from environmental and biological data, from **eDNA metabarcoding** to **variant annotation**, but the same approach applies to any combination of data sources that must be integrated, checked and delivered in a usable form.
 
-I solve data problems using **Python**, **R**, **Bash**, and **Linux** environments, with a strict focus on version control (**Git**) and reproducibility.
+I work with **Python**, **R**, **SQL**, **Bash**, **Git** and **Docker**, and I am particularly interested in systems where **deterministic code and LLMs work together**, each doing what it does best and leaving an auditable trail.
 
 ## Explore
 
